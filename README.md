@@ -5,7 +5,7 @@ Alien invasion is a python game created using pygame library, Most of the code h
 
 #### Major changes include:
 
-  * Changed background color with image background 
+  * Changed background color with an image background 
   * Changed ship image and alien image
   * Added key up and down for the ship to apply free moving 
   * Added 'Enter' key to start the game 
