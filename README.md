@@ -10,7 +10,7 @@ Alien invasion is a python game created using pygame library, Most of the code h
   * Added key up and down for the ship to apply free moving 
   * Added 'Enter' key to start the game 
   * Added a feature that saves the high score so it isn't reset each time you start the game 
-  * Added sound effect
+  * Added sound effects
     * background music
     * ship crash sound 
     * shooting sound
