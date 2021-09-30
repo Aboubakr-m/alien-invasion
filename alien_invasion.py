@@ -20,7 +20,8 @@ def run_game():
     # Create an instance to store game statistics and create a scoreboard.
     stats = GameStats(ai_settings)
     sb = Scoreboard(ai_settings, screen, stats)
-    # Make a ship, and a group of bullets, , and a group of aliens.
+    
+    # Make a ship, a group of bullets, and a group of aliens.
     ship = Ship(ai_settings, screen)
     bullets = Group()
     aliens = Group()
